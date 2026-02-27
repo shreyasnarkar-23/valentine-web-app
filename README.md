@@ -1,4 +1,4 @@
-# 💘 Interactive Event Invitation Web App
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/bfafece5-03a7-4a81-9055-2722be05d56b" /># 💘 Interactive Event Invitation Web App
 
 A full-stack interactive web application that generates unique invitation links and provides a dynamic, animated user experience.
 
@@ -12,6 +12,15 @@ This project demonstrates frontend–backend communication, token validation log
 - 🔗 Backend API (Render): https://website-backend-2fey.onrender.com
 
 ---
+
+## 📸 Screenshots
+
+![First Screen] (<img width="1919" height="1028" alt="Screenshot 2026-02-27 151327" src="https://github.com/user-attachments/assets/d70f9352-9c3d-470d-a1f4-154071bb571e" />)
+
+![Main Screen] (<img width="1919" height="1028" alt="Screenshot 2026-02-27 151803" src="https://github.com/user-attachments/assets/b5e79e40-ae6c-441b-8b6b-f5526c0178fb" />)
+
+![Final Screen] (<img width="1913" height="1034" alt="Screenshot 2026-02-27 151947" src="https://github.com/user-attachments/assets/c1e952de-161f-434d-8c02-0844f2e69766" />)
+
 
 ## 🛠 Tech Stack
 
